@@ -9,4 +9,4 @@ Options:
 *  `-o FILE`  Path of the output file.
 *  `-h`       Print this help.
 
-https://github.com/vidal-adrien/PNDS-pipelines/blob/37f2902eeba18af5d5d301a7f2c2201e9ce43b89/perl/bedFromFasta.pl#L1-L69
+https://github.com/vidal-adrien/RNA-Rx-Pipeline-Pub/blob/c701dff67f6cdf5a7a4036ec738ccff79ea28b30/perl/bedFromFasta.pl#L1-L69
