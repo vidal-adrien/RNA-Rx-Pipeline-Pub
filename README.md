@@ -5,7 +5,7 @@ Step-by-step guides to realize analyses.
 
 [RNA-Rx pipeline](rnarx.md)
 
-[RNA-Rx stable genes](rnaRxStableGenes.md)
+[Selection of stable genes](rnaRxStableGenes.md)
 
 ## Custom tools
 Scripts used in the above guides and other custom tools.
