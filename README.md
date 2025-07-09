@@ -14,12 +14,7 @@ Scripts used in the above guides and other custom tools.
 
 [bedFromGff.pl](bedFromGff.md): Perl Script. Creates a `.bed` table of the regions from a `.gff` file. With the possibility to specify which tag contains the ID, to filter by feature type and to enforce ID uniqueness.
 
-[mergeOverlappingRegions.sh](mergeOverlappingRegions.md): Bash script. Uses a comination of bedtools functions to search for overlaps of the genomic regions of the between two files and generate merged regions bed file out of selected regions.
-
-[validPairsForJuicer.sh](validPairsForJuicer.md): Bash script. Converts a validPair format from HiC-pro into a valid format for juicer_tools pre.
-
-[Genomic tools wrappers and HTCondor cluster launcher](wrappers.md): A set of wrapper scripts for many steps of the genomics pipelines and a system for launching scripts and HTCondor submissions through R.
-
+[tx2GeneFromGff.pl](tx2GeneFromGff.md) Perl Script. Extracts the transcript to gene correspondance from a `.gff` annotation file.
 ## Genomics resources:
 
 **Reference genomes:**
