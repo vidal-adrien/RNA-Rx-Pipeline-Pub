@@ -11,3 +11,5 @@ Options:
 * `-gida STR`       Name of the attribute containing the identifier of the transcript's gene. \"gene_id\" by default.
 * `-feat STR`       Feature type to select using the third column of the file. Use to select specific types of transcripts (e.g. mRNA). This argument may be repeated multipe times to select more than one feature.
 * `-h`              Print this help."
+
+https://github.com/vidal-adrien/RNA-Rx-Pipeline-Pub/blob/030c0df3e3136a07cd134038229554ba7eb26244/perl/tx2GeneFromGff.pl#L1-L83
