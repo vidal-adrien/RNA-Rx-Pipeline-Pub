@@ -13,4 +13,4 @@ Options:
 *  `-forceUnique`    Forces all IDs to be unique by appending anumber to every occurence of a particular ID after the first. Ignores IDs equal to "NA".
 *  `-h`              Print this help.
 
-https://github.com/vidal-adrien/PNDS-pipelines/blob/37f2902eeba18af5d5d301a7f2c2201e9ce43b89/perl/bedFromGff.pl#L1-L91
+https://github.com/vidal-adrien/RNA-Rx-Pipeline-Pub/blob/cbcf34fff24577979e765d9d126d5c1a0b1a7fbc/perl/bedFromGff.pl
