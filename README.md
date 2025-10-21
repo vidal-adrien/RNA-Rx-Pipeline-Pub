@@ -1,5 +1,5 @@
 # PNDS RNA-seq/RNA-Rx pipelines
-[![DOI](https://zenodo.org/badge/1016758818.svg)](https://doi.org/10.5281/zenodo.17397631)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17397632.svg)](https://doi.org/10.5281/zenodo.17397632)
 
 This is a public collection of documentation about RNA-seq and RNA-Rx pipelines used by the PNDS (Plant Nuclear Dynamics & Signaling) Team led by Clara Bourbousse & Fredy Barneche.
 
